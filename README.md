@@ -13,6 +13,6 @@ Steps:
 7. Dig, dig, dig.
 
 Tips:
-> Search for dates in the format DD/MM/YYYY.
-> For total messages sent, search ":" (excluding quotes)
+> Search for dates in the format DD/MM/YYYY. <
+> For total messages sent, search ":" (excluding quotes). <
 > You can search again for another string by typing "Y" and pressing "Enter" after the search has completed.
